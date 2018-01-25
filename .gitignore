@@ -1,3 +1,4 @@
 .idea 
-.swp 
+*.swp 
+*.class
 main.iml
