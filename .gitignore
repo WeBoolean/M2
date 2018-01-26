@@ -1,4 +1,6 @@
-.idea 
+.gradle
+gradle
+.idea
 *.swp 
 *.class
 main.iml

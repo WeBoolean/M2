@@ -38,9 +38,6 @@ public class Person5 {
 		}
 		modified = modified + front;
 		return modified;
-
-		}
-	  return null;
 	}
 	
 	/**
