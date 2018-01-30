@@ -31,18 +31,13 @@ public class Person5 {
 	 */
 	private String calc(String input) {
 	  //Person 5 put your implementation here
-		private String calc(String input) {
-			//Person 5 put your implementation here
-			String modified = "";
-			String front = input.substring(0,2);
-			for (int i = 2; i < input.length(); i++) {
-				modified = modified + input.charAt(i);
-			}
-			modified = modified + front;
-			return modified;
-
+		String modified = "";
+		String front = input.substring(0,2);
+		for (int i = 2; i < input.length(); i++) {
+			modified = modified + input.charAt(i);
 		}
-	  return null;
+		modified = modified + front;
+		return modified;
 	}
 	
 	/**
