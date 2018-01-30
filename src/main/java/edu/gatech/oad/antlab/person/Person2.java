@@ -41,7 +41,7 @@ public class Person2 {
 		}
 		return myString;
 		//return null;
-		}
+
 	}
 	/**
 	 * Return a string rep of this object
