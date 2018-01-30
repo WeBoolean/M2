@@ -4,3 +4,4 @@ gradle
 *.swp 
 *.class
 main.iml
+.DS_Store
