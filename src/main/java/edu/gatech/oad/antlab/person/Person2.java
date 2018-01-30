@@ -39,6 +39,7 @@ public class Person2 {
 		for (String letter : letters) {
 			myString += letter;
 		}
+		
 		return myString;
 		//return null;
 	}
