@@ -7,10 +7,8 @@
 
 # Java class files
 *.class
-<<<<<<< HEAD
 main.iml
 .DS_Store
-=======
 
 # generated files
 bin/

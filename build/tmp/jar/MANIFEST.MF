@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: M2
-Implementation-Version: 1.0
-Class-Path: src/main/java lib
-Main-Class: edu.gatech.oad.antlab.pkg1.AntLabMain
-
